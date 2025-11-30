@@ -1,0 +1,3 @@
+Signify is a real-time bidirectional Arabic Sign Language (ArSL) translation system that uses YOLOv8l for 
+gesture recognition, an Auto-Correction module for accurate text output, and 3D avatars to convert Arabic text 
+into sign animations on web and mobile.
